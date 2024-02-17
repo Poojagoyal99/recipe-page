@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.container{
+    height: 1380px;
+    width: 450px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 1%;
+}
+/* .inner{
+    height: 1000px;
+    width: 300px;
+    background-color: aqua;
+} */
+.content img{
+    height: 150px;
+    width:425px;
+    padding: 10px 10px 0px 10px;
+    border-radius: 7%;
+}
+h1{
+    margin-left: 12px;
+    font-size: 27px;
+    font-family: "Young Serif", serif;
+}
+p{
+    margin: 10px 10px 10px 10px;
+    font-size: 12px;
+}
+.prep{
+    height: 150px;
+    width: 410px;
+    background-color: hsl(330, 100%, 98%);
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.prep ul{
+    line-height: 0.6cm;
+    padding-left: 45px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+h4{
+    padding-top: 15px;
+    padding-left: 15px;
+   color: hsl(330, 77%, 44%);
+}
+
+/* .ind{
+    height: 350px;
+    width: 350px;
+    margin-left: 10px;
+    margin-top: 7px;
+} */
+.ind ul{
+    line-height: 0.8cm;
+    padding-left: 40px;
+    padding-top: 8px;
+    font-size: 15px;
+    padding-right: 15px;
+}
+h2{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: "Young Serif", serif;
+    font-weight: bolder;
+    color: hsl(26, 92%, 23%);
+}
+.ins ol{
+    line-height: 0.7cm;
+    padding-left: 40px;
+    padding-top: 8px;
+    font-size: 12px;
+    padding-right: 15px;
+}
+.nut{
+    line-height: 0.7cm;
+    padding-left: 30px;
+    padding-top: 8px;
+    font-size: 15px;
+    padding-right: 15px;
+}
+table {
+    border-collapse: separate;
+  border-spacing: 50px 0;
+  
+}
+td {
+    padding: 5px 0;
+    
+  }
